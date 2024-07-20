@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+.DS_Store
+.idea/
+*.iml
+*.iws
+*.ipr
+*.kotlin_metadata
+*.kotlin_module
+*.log
